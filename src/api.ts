@@ -18,6 +18,7 @@ export const ENDPOINT = {
 const DEVICE_TYPE = 'ANDROID';
 
 const LIST_USER_AGENT: string[] = [
+  'TGTG/{apk} Nikko/2.1.0 (Linux; U; Android 12; SM-G935F Build/NRD90M)',
   'TGTG/{apk} Dalvik/2.1.0 (Linux; U; Android 9; Nexus 5 Build/M4B30Z)',
   'TGTG/{apk} Dalvik/2.1.0 (Linux; U; Android 10; SM-G935F Build/NRD90M)',
   'TGTG/{apk} Dalvik/2.1.0 (Linux; Android 12; SM-G920V Build/MMB29K)',
